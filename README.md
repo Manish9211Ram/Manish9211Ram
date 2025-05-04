@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish9211ram&label=Profile%20views&color=0e75b6&style=flat" alt="manish9211ram" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning nlp<br><br>👯 I’m looking to collaborate on Full Stack projects<br><br>🤝 I’m looking for help with Django<br><br>👨‍💻 All of my projects are available at https://github.com/Manish9211Ram<br><br>💬 Ask me about Python<br><br>📫 How to reach me manishramforcomputer@gmail.com<br><br>⚡ Fun fact love challenges & learn from mistakes
+🌱 I’m currently learning nlp model<br><br>👯 I’m looking to collaborate on Full Stack projects<br><br>🤝 I’m looking for help with Django<br><br>👨‍💻 All of my projects are available at https://github.com/Manish9211Ram<br><br>💬 Ask me about Python<br><br>📫 How to reach me manishramforcomputer@gmail.com<br><br>⚡ Fun fact love challenges & learn from mistakes
 
 
 ## 🌐 Socials:
